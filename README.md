@@ -22,7 +22,7 @@ eProject documentation at : https://github.com/bonjour304/eProject1/tree/main/Re
 
 ============================
 
-eProject published at : 
+eProject published at : https://bonjour304.github.io/eProject1/
 
 ============================
 
