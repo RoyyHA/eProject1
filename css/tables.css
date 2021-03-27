@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+nav{
+  	border: none;
+    color:#fff;
+    background:#272e38;
+    border-radius:0;
+}
+nav{flex: 1;
+	text-align: right;}
+nav ul{display: inline-block;
+	   list-style-type: none;}
+nav ul li{
+	display: inline-block;
+	margin-right: 30px;}
+
+nav > div a.nav-item.nav-link.active:after
+ {
+  content: "";
+  position: relative;
+  bottom: -60px;
+  left: -10%;
+  border: 15px solid transparent;
+  border-top-color: #e74c3c ;
+}
+
+
+nav > div a.nav-item.nav-link:hover,
+nav > div a.nav-item.nav-link:focus
+{
+  border: none;
+    background: #e74c3c;
+    color:#fff;
+    border-radius:0;
+    transition:background 0.20s linear;
+}
