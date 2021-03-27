@@ -18,7 +18,7 @@ Project-title: MARU DRY FRUITS
                               Huỳnh Nhật Hiếu                   Student1279084
 ============================
 
-eProject documentation at : 
+eProject documentation at : https://github.com/bonjour304/eProject1/tree/main/Review
 
 ============================
 
@@ -26,7 +26,7 @@ eProject published at :
 
 ============================
 
-eProject video published at : h
+eProject video published at : 
 
 ============================
 
