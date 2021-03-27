@@ -26,7 +26,7 @@ eProject published at : https://bonjour304.github.io/eProject1/
 
 ============================
 
-eProject video published at : 
+eProject video published at : https://www.youtube.com/watch?v=uVL__2tlQgA&t=4s&ab_channel=HoangDo
 
 ============================
 
